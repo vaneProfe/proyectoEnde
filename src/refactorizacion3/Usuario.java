@@ -28,9 +28,6 @@ public class Usuario extends Persona{
         +" tiene "+edad+" años");
     }
     
-    public String toString(){
-        return "Nombre "+this.nombre+" Apellidos "+this.APELL+" id: "+this.id;
-    }
 
 }
 
