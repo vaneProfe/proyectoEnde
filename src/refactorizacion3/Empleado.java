@@ -39,7 +39,7 @@ public class Empleado extends Persona {
             System.out.println("El empleado "+ this.nombre+ " no cobrára antigüedad.");
     }
     
-    @Override
+    //@Override
     public void getInfo() {
         System.out.println("Nombre "+this.nombre+ ", apellidos "+
          this.APELL+", id: "+this.id+" contraseña: " +this.contrasena);

@@ -22,7 +22,7 @@ public class Usuario extends Persona{
         this.edad = edad;
     }
     
-    @Override
+    //@Override
     public void getInfo() {
         System.out.print("El usuario: "+this.nombre+" "+this.APELL+" con id: "+this.id
         +" tiene "+edad+" años");

@@ -24,6 +24,6 @@ abstract public class  Persona {
     }
  
     
-    public abstract void getInfo();
+    //public abstract void getInfo();
     
 }
